@@ -1,2 +1,2 @@
-- 👋 Хало, я толстовка
-- 👀 Я интересуюсь созданием чмырей и чым волосатых
+- 👋 Hi, you can call me tolstovka.
+- 👀 I am interested in creating private minecraft servers and writing plugins.
